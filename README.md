@@ -35,7 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
 </a>
 
- </p>
+ </p><br><br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3rohit&show_icons=true&locale=en&layout=compact" alt="3rohit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3rohit&show_icons=true&locale=en" alt="3rohit" /></p>
