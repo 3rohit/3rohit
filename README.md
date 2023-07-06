@@ -38,8 +38,4 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat1411&show_icons=true&locale=en&layout=compact" alt="sifat1411" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat1411&show_icons=true&locale=en" alt="sifat1411" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat1411&" alt="sifat1411" /></p>
