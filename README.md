@@ -11,13 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/sifathora141102" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifathora141102" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sifat-hora-b4372a204/" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/rohit-shukla-52618b1ba" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/sifat-hora-b4372a204" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_.its_sifxtttt_" target="_blank">
+  <a href="https://instagram.com/rohitshukla.1999" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".its_sifxtttt" height="30" width="40" />
   </a>
   <a href="mailto:sifat14112002@gmail.com" target="_blank">
